@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey buddy!
 
-<!--
-**LuskasDMC/LuskasDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Lucas Carvalho, Web Developer :heart:.
+<img src="https://img.shields.io/github/followers/luskasdmc?style=social"/>
 
-Here are some ideas to get you started:
+I'm studying and working on Javascript ecosystem: NodeJS | ReactJS. .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=luskasdmc&theme=dracula&show_icons=true" />
+
+- I'm currently working on [JXL Solutions]() in front-end.
+- I'm currently learning about React Native.
+> Reach me:
+<a href="https://www.linkedin.com/in/lucas-carvalho-honorio/">
+  <img align="left" alt="My LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />
+</a>
+<a href="mailto:caldoxgamer@gmail.com">
+  <img align="left" alt="Mail me" width="22px" src="https://image.flaticon.com/icons/svg/1057/1057100.svg" />
+</a>
