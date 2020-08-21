@@ -7,7 +7,6 @@ I'm studying and working on Javascript ecosystem: NodeJS | ReactJS. .
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=luskasdmc&theme=dracula&show_icons=true" />
 
-- I'm currently working on [JXL Solutions]() in front-end.
 - I'm currently learning about React Native.
 > Reach me:
 <a href="https://www.linkedin.com/in/lucas-carvalho-honorio/">
