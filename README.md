@@ -3,7 +3,7 @@
 ### I'm Lucas Carvalho, FullStack Developer :heart:.
 <img src="https://img.shields.io/github/followers/luskasdmc?style=social"/>
 
-I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Native. .
+I'm working on Javascript ecosystem: NodeJS | ReactJS | React Native.
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=luskasdmc&theme=dracula&show_icons=true" />
 
